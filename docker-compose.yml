@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   frontend:
-    image: tanchok/234-deplotlab-frontend:latest
+    image: tanchok/234-deploylab-frontend:latest
     ports:
       - "8086:80"
