@@ -3,4 +3,4 @@ services:
   frontend:
     image: tanchok/234-deplotlab-frontend:latest
     ports:
-    - "8086:80"
+      - "8086:80"
